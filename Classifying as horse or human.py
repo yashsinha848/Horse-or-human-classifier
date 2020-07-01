@@ -12,7 +12,7 @@ weight.	'''
 
 import os
 import zipfile
-
+#use this link to download database- https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip
 
 # Directory with our training horse pictures
 train_horse_dir = os.path.join(r'C:\Users\yash\.spyder-py3\Introduction to Tensorflow\Week 4\horses and humans photos\horses')
